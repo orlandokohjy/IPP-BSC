@@ -9,7 +9,7 @@ Extract relevant information for auditing purpose
 3) Click Jupyter Notebook
 
 ### Script
-4) Locate the latest .ipynb file in the repository (i.e. IPP BSC v202111021 (for IPP).ipynb)
+4) Locate the latest .ipynb file in the "notebook" folder shown above in the repository (i.e. IPP BSC v202111021 (for IPP).ipynb)
 5) Copy the entire code in the cell within a grey background box
 6) Click the run button on the top bar / Press and Hold Shift then Enter
 7) User is required to input the following details of the files in the following sequence:
